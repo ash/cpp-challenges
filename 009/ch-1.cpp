@@ -2,7 +2,7 @@
 // https://theweeklychallenge.org/blog/perl-weekly-challenge-009/
 
 // Test run:
-// $ java ch-1.java
+// $ ./a.out
 // n = 113
 // n^2 = 12769
 
